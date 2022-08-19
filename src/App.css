@@ -1,0 +1,8 @@
+html {
+  background: -webkit-linear-gradient(top left, #ceae94 20%, #fce9da 100%);
+  overflow: scroll;
+}
+
+.App {
+  text-align: center;
+}
